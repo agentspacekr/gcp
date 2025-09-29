@@ -1,2 +1,2 @@
-# gcp Project repository
+# GCP Project Repository
 gcp projcet repository
